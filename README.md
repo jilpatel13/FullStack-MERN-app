@@ -1,5 +1,5 @@
-### Setup
+## Setup
 
-## npm i && npm start
+#### npm i && npm start
 
-## to view in browser visit http://localhost:8000/
+#### to view in browser visit http://localhost:8000/
