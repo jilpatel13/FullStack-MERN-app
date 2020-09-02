@@ -7,4 +7,4 @@
 --------------------------------------------------------
 Book Shelf is a online book store application where you can buy your favourite books.
 
-<img src="images/s1" />
+<img src="images/s1.png" />
