@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,4BAGE,eACF,CAEA,KACE,kBACF,CAEA,OACE,iBAAkB,CAClB,QAAW,CACX,OAAU,CACV,MACF","file":"main.faaf8c79.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n  border-radius: 0px;\n}\n\nbody {\n  background: #e8e7d1;\n}\n\nfooter{\n  position: absolute;\n  bottom: 0px;\n  right: 0px;\n  left: 0px;\n}\n"]}
